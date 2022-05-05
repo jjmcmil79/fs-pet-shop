@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 
 const command = process.argv
