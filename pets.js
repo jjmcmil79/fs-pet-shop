@@ -112,7 +112,7 @@ function update(command, jsonResult){
         console.log(current)
     }
 }
-
+//create function to destroy an index
 function destroy(command, jsonResult){
     if(command[3] === undefined) {
         console.error('Usage: node pets.js destroy INDEX')
