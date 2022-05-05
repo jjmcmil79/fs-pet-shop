@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env node
 
 //assign process.argv to a variable
 const command = process.argv
